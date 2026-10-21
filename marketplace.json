@@ -1,0 +1,16 @@
+[
+  {
+    "id": "novel-viewer",
+    "name": "Novel Viewer",
+    "version": "0.1.0",
+    "manifestURI": "https://raw.githubusercontent.com/grimms/Seanime-Yapping/main/plugins/novel-viewer.json",
+    "language": "typescript",
+    "type": "plugin",
+    "description": "This will make novels visible as mangas in seanime (including on relations), only for metadata and list edit.",
+    "author": "grimms",
+    "icon": "https://raw.githubusercontent.com/grimms/Seanime-Yapping/main/Extensions/Plugins/NovelViewer/icon.png",
+    "website": "",
+    "readme": "https://raw.githubusercontent.com/grimms/Seanime-Yapping/main/Extensions/Plugins/NovelViewer/README.md",
+    "lang": "EN"
+  }
+]
