@@ -3,14 +3,14 @@
     "id": "novel-viewer",
     "name": "Novel Viewer",
     "version": "0.1.0",
-    "manifestURI": "https://raw.githubusercontent.com/Seluum/Seanime-Yapping/main/plugins/novel-viewer.json",
+    "manifestURI": "https://raw.githubusercontent.com/Seluum/Seanime-Yapping/refs/heads/main/Extensions/Plugins/novel-viewer.json",
     "language": "typescript",
     "type": "plugin",
     "description": "This will make novels visible as mangas in seanime (including on relations), only for metadata and list edit.",
     "author": "Seluum",
-    "icon": "https://raw.githubusercontent.com/Seluum/Seanime-Yapping/main/Extensions/Plugins/novel-viewer/icon.png",
+    "icon": "https://github.com/Seluum/Seanime-Yapping/blob/main/Extensions/Plugins/novel-viewer/icon.png",
     "website": "",
-    "readme": "https://raw.githubusercontent.com/Seluum/Seanime-Yapping/main/Extensions/Plugins/novel-viewer/README.md",
-    "lang": "EN"
+    "readme": "",
+    "lang": "en"
   }
 ]
