@@ -13,7 +13,7 @@
   "lang": "EN",
   "payloadURI": "https://raw.githubusercontent.com/Seluum/Seanime-Yapping/main/Extensions/Plugins/NovelViewer/main.ts",
   "plugin": {
-    "version": "1",
+    "version": 1,
     "permissions": {
       "scopes": [
         "storage",
