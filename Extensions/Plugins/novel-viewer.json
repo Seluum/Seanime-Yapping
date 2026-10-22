@@ -11,7 +11,7 @@
   "website": "",
   "readme": "",
   "lang": "en",
-  "payloadURI": "C:/Users/grimms/Works/Repos/Seanime-Yapping/Extensions/Plugins/novel-viewer/main.ts",
+  "payloadURI": "https://raw.githubusercontent.com/Seluum/Seanime-Yapping/main/Extensions/Plugins/novel-viewer/main.ts",
   "plugin": {
     "version": "1",
     "permissions": {
