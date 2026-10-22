@@ -1,2 +1,3 @@
-**/core.d.ts
-**/*core*.d.ts
+# Ignorar todos os ficheiros de definição de tipos (.d.ts)
+*.d.ts
+**/*.d.ts
