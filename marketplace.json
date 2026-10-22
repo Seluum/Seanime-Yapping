@@ -8,9 +8,9 @@
     "type": "plugin",
     "description": "This will make novels visible as mangas in seanime (including on relations), only for metadata and list edit.",
     "author": "Seluum",
-    "icon": "https://raw.githubusercontent.com/Seluum/Seanime-Yapping/main/Extensions/Plugins/NovelViewer/icon.png",
+    "icon": "https://raw.githubusercontent.com/Seluum/Seanime-Yapping/main/Extensions/Plugins/novel-viewer/icon.png",
     "website": "",
-    "readme": "https://raw.githubusercontent.com/Seluum/Seanime-Yapping/main/Extensions/Plugins/NovelViewer/README.md",
+    "readme": "https://raw.githubusercontent.com/Seluum/Seanime-Yapping/main/Extensions/Plugins/novel-viewer/README.md",
     "lang": "EN"
   }
 ]
