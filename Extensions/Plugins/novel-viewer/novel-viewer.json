@@ -1,0 +1,11 @@
+{
+    "name": "novel-viewer",
+    "description": "Enables Visual Novels (NOVEL format) recognition via AniList API.",
+    "version": "1.1.0",
+    "author": "grimms",
+    "type": "plugin",
+    "entrypoint": "./main.ts",
+    "permissions": [
+        "anilist"
+    ]
+}
